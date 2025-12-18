@@ -2,7 +2,7 @@
 
 ## Requirement
 
-1. VS 2022 (please updating by [VS2022 patching MODIS](./900-good-practice/vs2022.md))
+1. VS 2022 (please updating by [VS2022 patching MODIS](../900-good-pactice/vs2022.md))
 
 ## How to build
 
